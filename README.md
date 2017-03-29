@@ -1,1 +1,1 @@
-# project
+# Garage Sale web application
